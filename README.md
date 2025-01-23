@@ -70,11 +70,15 @@ docker-compose up
 
 **RESPONSE**
 ```json
-{
-  "name": "Fernanda Kipper",
-  "age": 20,
-  "email": "her-email@gmail.com"
-}
+[
+ {
+   "first_name": "Lucas",
+   "last_name": "Silva",
+   "cpf": "111.111.111-11",
+   "email": "her-email@gmail.com",
+   "birth_date": "01/10/2001"
+ }
+]
 ```
 
 <h3 id="get-user-cpf">GET /user/:cpf</h3>
