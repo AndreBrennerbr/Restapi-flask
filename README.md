@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-    <b>Api para cadastro e busca de usuário com foco em deploy</b>
+    <b>API para cadastro e consulta de usuários, com foco na prática dos conceitos fundamentais do Flask</b>
 </p>
 
 <h2 id="technologies">💻 Technologies</h2>
